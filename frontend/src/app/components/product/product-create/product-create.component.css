@@ -1,0 +1,21 @@
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+button {
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+input {
+    gap: 20px;
+}
+
+mat-card-title {
+    margin-left: 10px;
+}
+
+button.save-btn {
+background-color: brown;}

@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+form.form {
+    background-color: #e9f6ff
+}
+button {
+    margin: 20px 15px 0px 0px;
+}
+
+button.delete-btn {
+    background: rgb(181, 62, 62);
+}

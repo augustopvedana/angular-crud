@@ -1,0 +1,35 @@
+.sidenav {
+    background-color: #444444;
+    width: 180px;
+    position: fixed;
+}
+
+.sidenav i {
+    padding-right: 10px;
+    position: relative;
+    top: 4px;
+}
+
+.home-icon {
+    height: 60px;
+    transition: height 1s;
+}
+
+.home-icon:hover {
+    height: 65px;
+    transition: height 500ms;
+}
+.products {
+    height: 60px;
+    transition: height 1s;
+}
+.products:hover {
+    height: 65px;
+    transition: height 500ms;
+}
+
+.content {
+    padding: 16px;
+    /* background-color: rgb(240, 239, 238); */
+    background-color: aliceblue;
+}
